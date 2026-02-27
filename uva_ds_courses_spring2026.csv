@@ -1,69 +1,69 @@
 Course Mnemonic,Course Number,Course Title,Instructor,Room,Day(s),Start time,End time
-DS,1001,Foundation of Data Science,Brian Wright,15257,"Mo,We",02:00 PM,03:15 PM
-DS,1001,Foundation of Data Science,Ali Rivera,15296,Fr,02:00 PM,02:50 PM
-DS,1001,Foundation of Data Science,Foundation of Data Science,15258,Fr,12:00 PM,12:50 PM
-DS,1001,Foundation of Data Science,Ali Rivera,15259,Fr,01:00 PM,01:50 PM
-DS,1001,Foundation of Data Science,Foundation of Data Science,15260,Fr,12:00 PM,12:50 PM
-DS,1001,Foundation of Data Science,Foundation of Data Science,DS 1002,Fr,01:00 PM,01:50 PM
-DS,1002,Programming for Data Science,Mai Dahshan,15295,"Mo,We",03:30 PM,04:45 PM
-DS,1002,Programming for Data Science,Mai Dahshan,DS 2002,"Tu,Th",02:00 PM,03:15 PM
-DS,2002,Data Science Systems,Jon Tupitza,15251,"Mo,We,Fr",09:00 AM,09:50 AM
-DS,2002,Data Science Systems,Jason Williamson,15309,"Mo,We,Fr",10:00 AM,10:50 AM
-DS,2002,Data Science Systems,Karsten Siller,DS 2003,"Mo,We,Fr",09:00 AM,09:50 AM
-DS,2003,Communicating with Data,Nur Yildirim,15261,"Tu,Th",09:30 AM,10:45 AM
-DS,2003,Communicating with Data,Hannah Bako,DS 2004,"Mo,We,Fr",11:00 AM,11:50 AM
-DS,2004,Data Ethics,Emanuel Moss,19621,"Tu,Th",11:00 AM,12:15 PM
-DS,2004,Data Ethics,David Danks,DS 2024,"Tu,Th",12:30 PM,01:45 PM
-DS,2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,18945,"Mo,We",02:00 PM,03:15 PM
-DS,2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,DS 3001,"Mo,We",03:30 PM,04:45 PM
-DS,3001,Foundations of Machine Learning,Terence Johnson,15322,"Tu,Th",12:30 PM,01:45 PM
-DS,3001,Foundations of Machine Learning,Cheng Peng,15323,"Tu,Th",09:30 AM,10:45 AM
-DS,3001,Foundations of Machine Learning,Michael Freenor,21143,"Tu,Th",03:30 PM,04:45 PM
-DS,3001,Foundations of Machine Learning,Ethan Nelson,DS 3021,"Mo,We",05:00 PM,06:15 PM
-DS,3021,Analytics I: Foundations of Machine Learning,Brian Wright,15311,"Tu,Th",02:00 PM,03:15 PM
-DS,3021,Analytics I: Foundations of Machine Learning,Terence Johnson,DS 3025,"Tu,Th",03:30 PM,04:45 PM
-DS,3025,Mathematics for Data Science,Gianluca Guadagni,15314,"Tu,Th",11:00 AM,12:15 PM
-DS,3025,Mathematics for Data Science,Gianluca Guadagni,15312,We,01:00 PM,01:50 PM
-DS,3025,Mathematics for Data Science,Gianluca Guadagni,15315,"Tu,Th",12:30 PM,01:45 PM
-DS,3025,Mathematics for Data Science,Gianluca Guadagni,DS 3026,Mo,01:00 PM,01:50 PM
-DS,3026,Principles of Inference and Prediction,Prince Afriyie,18942,"Mo,We",02:00 PM,03:15 PM
-DS,3026,Principles of Inference and Prediction,Prince Afriyie,DS 4002,"Mo,We",03:30 PM,04:45 PM
-DS,4002,Data Science Project,Javier Rasero,15306,"Mo,We,Fr",10:00 AM,10:50 AM
-DS,4002,Data Science Project,Karsten Siller,DS 4023,"Mo,We,Fr",11:00 AM,11:50 AM
-DS,4023,Data Design II: Interactive Applications,Mai Dahshan,DS 4024,"Tu,Th",12:30 PM,01:45 PM
-DS,4024,Value II: Explainable AI,Farhana Faruqe,18943,"Tu,Th",02:00 PM,03:15 PM
-DS,4024,Value II: Explainable AI,Chirag Agarwal,DS 4125,"Tu,Th",03:30 PM,04:45 PM
-DS,4125,Introduction to Deep Learning,Jianxin Xie,DS 4320,"Mo,We,Fr",10:00 AM,10:50 AM
-DS,4320,Data by Design,Loreto Alonzi,18944,"Mo,We",02:00 PM,03:15 PM
-DS,4320,Data by Design,Loreto Alonzi,DS 4993,"Mo,We",03:30 PM,04:45 PM
-DS,5001,Text as Data,Rafael Alvarado,19615,"Mo,We,Fr",11:00 AM,11:50 AM
-DS,5001,Text as Data,Sree Mallikarjun,DS 5003,Tu,06:00 PM,07:00 PM
-DS,5003,Healthcare Data Science,Christian Wernz,DS 5007,Tu,07:15 PM,08:15 PM
-DS,5007,Don't Invent The Torment Nexus: The History of Technology & Work,Mar Hicks,DS 5012,Tu,08:30 PM,09:30 PM
-DS,5012,Computation for Data Science,Yuri Malitsky,DS 5023,We,08:30 PM,09:30 PM
-DS,5023,Interactive Applications,Mai Dahshan,DS 5030,"Tu,Th",12:30 PM,01:45 PM
-DS,5030,Understanding Uncertainty,Jeffrey Woo,DS 5070,Tu,07:15 PM,08:15 PM
-DS,5070,Deep Learning in Environmental Science,Antonios Mamalakis,DS 5220,"Tu,Th",09:30 AM,10:45 AM
-DS,5220,Advanced Cloud Computing,Neal Magee,DS 6001,"Mo,We,Fr",12:00 PM,12:50 PM
-DS,6001,Data Engineering I: Data Pipeline Architecture,Jonathan Kropko,DS 6002,Tu,08:30 PM,09:30 PM
-DS,6002,Ethics of Big Data I,Farhana Faruqe,18934,"Tu,Th",09:30 AM,10:45 AM
-DS,6002,Ethics of Big Data I,Farhana Faruqe,18935,"Tu,Th",11:00 AM,12:15 PM
-DS,6002,Ethics of Big Data I,Renee Cummings,18936,Th,06:00 PM,07:00 PM
-DS,6002,Ethics of Big Data I,Renee Cummings,DS 6015,Th,06:00 PM,07:00 PM
-DS,6015,Data Science Capstone,Philip Waggoner,18939,Th,07:15 PM,09:15 PM
-DS,6015,Data Science Capstone,Rafael Alvarado,18940,Th,07:15 PM,09:15 PM
-DS,6015,Data Science Capstone,Adam Tashman,DS 6021,Th,07:15 PM,09:15 PM
-DS,6021,Machine Learning I: Introduction to Predictive Modeling,Jeffrey Woo,DS 6030,We,07:15 PM,08:15 PM
-DS,6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,18941,"Tu,Th",09:30 AM,10:45 AM
-DS,6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,DS 6050,"Tu,Th",11:00 AM,12:15 PM
-DS,6050,Machine Learning III: Deep Learning,Tom Hartvigsen,18937,"Mo,We,Fr",10:00 AM,10:50 AM
-DS,6050,Machine Learning III: Deep Learning,Tom Hartvigsen,18938,"Mo,We,Fr",11:00 AM,11:50 AM
-DS,6050,Machine Learning III: Deep Learning,Heman Shakeri,DS 6210,We,07:15 PM,08:15 PM
-DS,6210,Computation II: Numerical Analysis & Optimization,Heman Shakeri,DS 6310,"Mo,We",12:30 PM,01:45 PM
-DS,6310,Theory II: Inference & Prediction,Jordan Bryan; Thomas Stewart,DS 6404,"Tu,Th",09:30 AM,10:45 AM
-DS,6404,Physics-Aware Deep Learning,Stephen Baek,DS 6410,"Tu,Th",11:00 AM,12:15 PM
-DS,6410,Advanced Machine Learning II: Methods & Application,Aiying Zhang,DS 6425,"Mo,We",09:30 AM,10:45 AM
-DS,6425,Time Series Modeling,Don Brown,DS 6700,"Mo,We",02:00 PM,03:15 PM
-DS,6700,"Value I: Data Ethics, Policy and Governance",Jess Reia,DS 6993,"Mo,We",03:30 PM,04:45 PM
-DS,7600,Design I: Human-Centered Design,Nur Yildirim,DS 8104,"Tu,Th",02:00 PM,03:15 PM
-DS,8104,Network Science,Alex Gates,DS 8998,"Tu,Th",03:30 PM,04:45 PM
+DS,1001,Foundation of Data Science,Brian Wright,Nau Hall 101,"Mo,We",02:00 PM,03:15 PM
+DS,1001,Foundation of Data Science,Ali Rivera,Data Science Building Room 206,Fr,02:00 PM,02:50 PM
+DS,1001,Foundation of Data Science,,Data Science Building Room 206,Fr,12:00 PM,12:50 PM
+DS,1001,Foundation of Data Science,Ali Rivera,Data Science Building Room 206,Fr,01:00 PM,01:50 PM
+DS,1001,Foundation of Data Science,,Data Science Building Room 306,Fr,12:00 PM,12:50 PM
+DS,1001,Foundation of Data Science,,Data Science Building Room 306,Fr,01:00 PM,01:50 PM
+DS,1002,Programming for Data Science,Mai Dahshan,Data Science Building Room 305,"Mo,We",03:30 PM,04:45 PM
+DS,1002,Programming for Data Science,Mai Dahshan,Data Science Building Room 305,"Tu,Th",02:00 PM,03:15 PM
+DS,2002,Data Science Systems,Jon Tupitza,Data Science Building Room 305,"Mo,We,Fr",09:00 AM,09:50 AM
+DS,2002,Data Science Systems,Jason Williamson,Data Science Building Room 305,"Mo,We,Fr",10:00 AM,10:50 AM
+DS,2002,Data Science Systems,Karsten Siller,Data Science Building Room 205,"Mo,We,Fr",09:00 AM,09:50 AM
+DS,2003,Communicating with Data,Nur Yildirim,Data Science Building Room 205,"Tu,Th",09:30 AM,10:45 AM
+DS,2003,Communicating with Data,Hannah Bako,Data Science Building Room 305,"Mo,We,Fr",11:00 AM,11:50 AM
+DS,2004,Data Ethics,Emanuel Moss,Data Science Building Room 305,"Tu,Th",11:00 AM,12:15 PM
+DS,2004,Data Ethics,David Danks,Data Science Building Room 206,"Tu,Th",12:30 PM,01:45 PM
+DS,2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,Data Science Building Room 205,"Mo,We",02:00 PM,03:15 PM
+DS,2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,Data Science Building Room 205,"Mo,We",03:30 PM,04:45 PM
+DS,3001,Foundations of Machine Learning,Terence Johnson,Data Science Building Room 305,"Tu,Th",12:30 PM,01:45 PM
+DS,3001,Foundations of Machine Learning,Cheng Peng,Data Science Building Room 305,"Tu,Th",09:30 AM,10:45 AM
+DS,3001,Foundations of Machine Learning,Michael Freenor,Data Science Building Room 305,"Tu,Th",03:30 PM,04:45 PM
+DS,3001,Foundations of Machine Learning,Ethan Nelson,Data Science Building Room 305,"Mo,We",05:00 PM,06:15 PM
+DS,3021,Analytics I: Foundations of Machine Learning,Brian Wright,Data Science Building Room 205,"Tu,Th",02:00 PM,03:15 PM
+DS,3021,Analytics I: Foundations of Machine Learning,Terence Johnson,Data Science Building Room 205,"Tu,Th",03:30 PM,04:45 PM
+DS,3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,"Tu,Th",11:00 AM,12:15 PM
+DS,3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,We,01:00 PM,01:50 PM
+DS,3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,"Tu,Th",12:30 PM,01:45 PM
+DS,3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,Mo,01:00 PM,01:50 PM
+DS,3026,Principles of Inference and Prediction,Prince Afriyie,Data Science Building Room 306,"Mo,We",02:00 PM,03:15 PM
+DS,3026,Principles of Inference and Prediction,Prince Afriyie,Data Science Building Room 306,"Mo,We",03:30 PM,04:45 PM
+DS,4002,Data Science Project,Javier Rasero,Data Science Building Room 205,"Mo,We,Fr",10:00 AM,10:50 AM
+DS,4002,Data Science Project,Karsten Siller,Data Science Building Room 206,"Mo,We,Fr",11:00 AM,11:50 AM
+DS,4023,Data Design II: Interactive Applications,Mai Dahshan,Data Science Building Room 306,"Tu,Th",12:30 PM,01:45 PM
+DS,4024,Value II: Explainable AI,Farhana Faruqe,Data Science Building Room 306,"Tu,Th",02:00 PM,03:15 PM
+DS,4024,Value II: Explainable AI,Chirag Agarwal,Data Science Building Room 306,"Tu,Th",03:30 PM,04:45 PM
+DS,4125,Introduction to Deep Learning,Jianxin Xie,Data Science Building Room 206,"Mo,We,Fr",10:00 AM,10:50 AM
+DS,4320,Data by Design,Loreto Alonzi,Data Science Building Room 206,"Mo,We",02:00 PM,03:15 PM
+DS,4320,Data by Design,Loreto Alonzi,Data Science Building Room 206,"Mo,We",03:30 PM,04:45 PM
+DS,5001,Text as Data,Rafael Alvarado,Data Science Building Room 205,"Mo,We,Fr",11:00 AM,11:50 AM
+DS,5001,Text as Data,Sree Mallikarjun,,Tu,06:00 PM,07:00 PM
+DS,5003,Healthcare Data Science,Christian Wernz,,Tu,07:15 PM,08:15 PM
+DS,5007,Don't Invent The Torment Nexus: The History of Technology & Work,Mar Hicks,,Tu,08:30 PM,09:30 PM
+DS,5012,Computation for Data Science,Yuri Malitsky,,We,08:30 PM,09:30 PM
+DS,5023,Interactive Applications,Mai Dahshan,Data Science Building Room 306,"Tu,Th",12:30 PM,01:45 PM
+DS,5030,Understanding Uncertainty,Jeffrey Woo,,Tu,07:15 PM,08:15 PM
+DS,5070,Deep Learning in Environmental Science,Antonios Mamalakis,New Cabell Hall 395,"Tu,Th",09:30 AM,10:45 AM
+DS,5220,Advanced Cloud Computing,Neal Magee,Data Science Building Room 205,"Mo,We,Fr",12:00 PM,12:50 PM
+DS,6001,Data Engineering I: Data Pipeline Architecture,Jonathan Kropko,,Tu,08:30 PM,09:30 PM
+DS,6002,Ethics of Big Data I,Farhana Faruqe,Data Science Building Room 306,"Tu,Th",09:30 AM,10:45 AM
+DS,6002,Ethics of Big Data I,Farhana Faruqe,Data Science Building Room 306,"Tu,Th",11:00 AM,12:15 PM
+DS,6002,Ethics of Big Data I,Renee Cummings,,Th,06:00 PM,07:00 PM
+DS,6002,Ethics of Big Data I,Renee Cummings,,Th,06:00 PM,07:00 PM
+DS,6015,Data Science Capstone,Philip Waggoner,,Th,07:15 PM,09:15 PM
+DS,6015,Data Science Capstone,Rafael Alvarado,,Th,07:15 PM,09:15 PM
+DS,6015,Data Science Capstone,Adam Tashman,,Th,07:15 PM,09:15 PM
+DS,6021,Machine Learning I: Introduction to Predictive Modeling,Jeffrey Woo,,We,07:15 PM,08:15 PM
+DS,6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,Data Science Building Room 206,"Tu,Th",09:30 AM,10:45 AM
+DS,6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,Data Science Building Room 206,"Tu,Th",11:00 AM,12:15 PM
+DS,6050,Machine Learning III: Deep Learning,Tom Hartvigsen,Data Science Building Room 306,"Mo,We,Fr",10:00 AM,10:50 AM
+DS,6050,Machine Learning III: Deep Learning,Tom Hartvigsen,Data Science Building Room 306,"Mo,We,Fr",11:00 AM,11:50 AM
+DS,6050,Machine Learning III: Deep Learning,Heman Shakeri,,We,07:15 PM,08:15 PM
+DS,6210,Computation II: Numerical Analysis & Optimization,Heman Shakeri,Data Science Building Room 246,"Mo,We",12:30 PM,01:45 PM
+DS,6310,Theory II: Inference & Prediction,Jordan Bryan; Thomas Stewart,Data Science Building Room 246,"Tu,Th",09:30 AM,10:45 AM
+DS,6404,Physics-Aware Deep Learning,Stephen Baek,Data Science Building Room 246,"Tu,Th",11:00 AM,12:15 PM
+DS,6410,Advanced Machine Learning II: Methods & Application,Aiying Zhang,Data Science Building Room 246,"Mo,We",09:30 AM,10:45 AM
+DS,6425,Time Series Modeling,Don Brown,Data Science Building Room 246,"Mo,We",02:00 PM,03:15 PM
+DS,6700,"Value I: Data Ethics, Policy and Governance",Jess Reia,Data Science Building Room 246,"Mo,We",03:30 PM,04:45 PM
+DS,7600,Design I: Human-Centered Design,Nur Yildirim,Data Science Building Room 206,"Tu,Th",02:00 PM,03:15 PM
+DS,8104,Network Science,Alex Gates,Data Science Building Room 246,"Tu,Th",03:30 PM,04:45 PM
